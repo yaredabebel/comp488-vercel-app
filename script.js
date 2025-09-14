@@ -1,13 +1,10 @@
-// Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     // Get references to the button and hidden content
     const toggleButton = document.getElementById('toggleButton');
     const hiddenContent = document.getElementById('hiddenContent');
     
-    // Track the current state
     let isContentVisible = false;
     
-    // Add click event listener to the button
     toggleButton.addEventListener('click', function() {
         if (isContentVisible) {
             // Hide the content
@@ -40,7 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }, index * 200);
     });
     
-    // Add smooth scrolling for any future navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             e.preventDefault();
@@ -54,7 +50,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Console log to show JavaScript is working
     console.log('Website loaded successfully! JavaScript is working.');
     console.log('Interactive features initialized.');
 });
