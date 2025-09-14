@@ -1,16 +1,16 @@
 # COMP 488 Assignment 2: Simple Website Deployment
 
-## 📋 Project Description
+##  Project Description
 
 This project is a responsive website created for COMP 488 Assignment 2, demonstrating fundamental web development skills using HTML, CSS, and JavaScript. The website features a modern, clean design with interactive elements and is fully optimized for both desktop and mobile viewing experiences.
 
 The site includes three main content sections: project information, interactive features demonstration, and a showcase of technologies used. The interactive element allows users to toggle hidden content visibility through a JavaScript-powered button that dynamically changes its appearance and text.
 
-## 🌐 Live Demo
+##  Live Demo
 
 **Deployed Site:** [https://comp488-vercel-app.vercel.app/](https://comp488-vercel-app.vercel.app/)
 
-## 🚀 Local Development
+##  Local Development
 
 To run this project locally on your machine:
 
@@ -41,7 +41,7 @@ To run this project locally on your machine:
 
 4. That's it! The website should now be running locally.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** - Semantic markup and document structure
 - **CSS3** - Styling, responsive design, and animations
@@ -50,7 +50,7 @@ To run this project locally on your machine:
 - **GitHub** - Repository hosting
 - **Vercel** - Deployment and hosting platform
 
-## 📚 Learning Reflection
+##  Learning Reflection
 
 Working on this project provided valuable hands-on experience with the complete web development workflow, from initial coding to deployment. One of the most significant learning outcomes was understanding how the three core web technologies work together harmoniously - HTML providing the structural foundation, CSS creating the visual presentation, and JavaScript adding interactive functionality. The process of separating concerns into different files also reinforced best practices in web development organization.
 
@@ -86,8 +86,7 @@ comp488-vercel-app/
 - ✅ Responsive design for desktop and mobile
 - ✅ Deployed on Vercel via GitHub integration
 
-## 👨‍💻 Author
+## 👨 Author
 
 **Yared Leake**  
-COMP 488 - Web Development  
-Fall 2025
+
